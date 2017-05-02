@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 38E7-7F7C
+
+ Directory of C:\Temp\GIT\Config
+
+05/02/2017  11:41 AM    <DIR>          .
+05/02/2017  11:41 AM    <DIR>          ..
+07/24/2016  04:52 PM                 0 application.properties
+05/02/2017  10:13 AM               132 index.html
+05/02/2017  11:41 AM                 0 myfile1.txt
+               3 File(s)            132 bytes
+               2 Dir(s)  838,334,648,320 bytes free
